@@ -59,7 +59,7 @@ section::after{
   background: rgba(225, 225, 225, 0.05);
   box-shadow: 0 10px 25px rgba(0,0,0,0.2);
   backdrop-filter: blur(15px);
-  /* rumusnya grey diberi opacity 0.2 */
+  /* rumusnya grey diber opacity 0.2 */
 }
 .container .card .imgBx{
   position: relative;
